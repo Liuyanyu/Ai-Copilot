@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Ai-Copilot/static/css/main.821fecac.css",
-    "main.js": "/Ai-Copilot/static/js/main.85e4d5ff.js",
+    "main.js": "/Ai-Copilot/static/js/main.513ba685.js",
     "static/js/453.f505a7c6.chunk.js": "/Ai-Copilot/static/js/453.f505a7c6.chunk.js",
     "static/media/logo.svg": "/Ai-Copilot/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Ai-Copilot/index.html",
     "main.821fecac.css.map": "/Ai-Copilot/static/css/main.821fecac.css.map",
-    "main.85e4d5ff.js.map": "/Ai-Copilot/static/js/main.85e4d5ff.js.map",
+    "main.513ba685.js.map": "/Ai-Copilot/static/js/main.513ba685.js.map",
     "453.f505a7c6.chunk.js.map": "/Ai-Copilot/static/js/453.f505a7c6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.821fecac.css",
-    "static/js/main.85e4d5ff.js"
+    "static/js/main.513ba685.js"
   ]
 }
